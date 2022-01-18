@@ -25,5 +25,5 @@ You can find me on [![LinkedIn][2.2]][2].
 <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"  width="40" height="40">
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=oburakcinar.oburakcinar&left_color=green&right_color=red)
+
 
